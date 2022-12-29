@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\bin\Debug\KAYA OTOMOTİV.exe.config
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\bin\Debug\KAYA OTOMOTİV.exe
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\bin\Debug\KAYA OTOMOTİV.pdb
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA OTOMOTİV.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA_OTOMOTİV.FrmAnaSayfa.resources
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA_OTOMOTİV.Properties.Resources.resources
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA OTOMOTİV.csproj.GenerateResource.cache
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA OTOMOTİV.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA OTOMOTİV.exe
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA OTOMOTİV.pdb
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA_OTOMOTİV.FrmMüşteriEkle.resources
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA_OTOMOTİV.FrmMüşteriListele.resources
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA_OTOMOTİV.FrmAraçKayıt.resources
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA_OTOMOTİV.FrmAraçListele.resources
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA_OTOMOTİV.FrmSözleşme.resources
+C:\Users\Kenan\Desktop\PROGRAM ÇALIŞMALARI\KAYA OTOMOTİV\KAYA OTOMOTİV\obj\Debug\KAYA_OTOMOTİV.FrmSatış.resources
